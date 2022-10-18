@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+//Reference
+//SwiftUI 3.0 Elegant Task App UI With Custom Date Picker - Custom Graphical Date Picker - Xcode 13. (n.d.). Www.youtube.com. Retrieved October 18, 2022, from https://www.youtube.com/watch?v=UZI2dvLoPr8&t=24s
 
 struct CalendarView: View {
     @EnvironmentObject var taskManager:TaskManager

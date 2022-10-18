@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+//Reference
+//Hudson @twostraws, P. (n.d.). Adding a custom star rating component - a free Hacking with iOS: SwiftUI Edition tutorial. Hacking with Swift. Retrieved October 18, 2022, from https://www.hackingwithswift.com/books/ios-swiftui/adding-a-custom-star-rating-component
+
 struct starRating: View {
     @Binding var rating: Int
     var lable = ""

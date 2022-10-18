@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+//Reference
+//Build a SwiftUI to-do app from scratch with Realm Crash Course. (n.d.). Www.youtube.com. Retrieved October 18, 2022, from https://www.youtube.com/watch?v=b6q9vKaXtoU
 
 struct AddTaskView: View {
     @EnvironmentObject var taskManager:TaskManager
