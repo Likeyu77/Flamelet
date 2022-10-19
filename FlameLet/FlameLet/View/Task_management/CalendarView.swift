@@ -103,7 +103,7 @@ struct CalendarView: View {
 
             
             VStack(spacing: 15){
-                Text("Porjets")
+                Text("Projets")
                     .font(.title2.bold())
                     .foregroundColor(.orange)
                     .frame(maxWidth:.infinity, alignment: .leading)
